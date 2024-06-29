@@ -1,0 +1,16 @@
+---
+title: Requirements
+description: Requirements for Astro Snipcart
+layout: ../../layouts/MainLayout.astro
+---
+
+Before using this Astro Snipcart integration there are some requirements.
+
+ * Register for a Snipcart account
+ * Generate your Snipcart API key
+ * Setup allowed domains that can use the Snipcart API key
+ * Setup shipping rates
+
+Read [Snipcart Documentation](https://docs.snipcart.com/v3/).
+
+We will be covering these steps in the [getting started guide](/en/getting-started).
